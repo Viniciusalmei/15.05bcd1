@@ -1,0 +1,1 @@
+vinicius-almeidabd1.mysql.database.azure.com
