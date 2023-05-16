@@ -1,0 +1,13 @@
+RESTA FAZER SOMENTE 
+
+ETAPA 2 – BASE DE DADOS DUMP IDESP
+•       Faça a importação do arquivo .zip DumpIDESP, referente ao Indice de desenvolvimento das escolas de SP;
+
+•       Crie uma consulta para mostrar qual a média por municipio da nota idesp_ef_iniciais, nota_idesp_ef_finais e nota_idesp_em;
+
+•       Crie uma consulta para mostrar qual a média por municipio e por ano da nota idesp_ef_iniciais, nota_idesp_ef_finais e nota_idesp_em;
+
+•       Crie uma consulta para mostrar qual a média da composição conjunta por municipio da nota idesp_ef_iniciais, nota_idesp_ef_finais e nota_idesp_em;
+
+
+
